@@ -18,6 +18,7 @@
 		<Item Name="PArticle analysis.vi" Type="VI" URL="../PArticle analysis.vi"/>
 		<Item Name="ROI_saving.vi" Type="VI" URL="../ROI_saving.vi"/>
 		<Item Name="Search_and_match.vi" Type="VI" URL="../Search_and_match.vi"/>
+		<Item Name="Search_and_match2.vi" Type="VI" URL="../Search_and_match2.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="My Installer" Type="Installer">
