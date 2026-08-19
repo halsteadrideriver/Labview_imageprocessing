@@ -12,6 +12,9 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="previos_2024" Type="Folder">
+			<Item Name="Search_and_match2_2024.vi" Type="VI" URL="../previos_2024/Search_and_match2_2024.vi"/>
+		</Item>
 		<Item Name="Color_detection_ROI_tools.vi" Type="VI" URL="../Color_detection_ROI_tools.vi"/>
 		<Item Name="Edge_Detection.vi" Type="VI" URL="../Edge_Detection.vi"/>
 		<Item Name="Image_processor.vi" Type="VI" URL="../Image_processor.vi"/>
